@@ -90,7 +90,8 @@ dcase@nwmissouri.edu
 ## changes
 - syllabus
 - schedule
-
+## floral images
+![flower](https://www.pinterest.com/pin/307863324503914348/)
 
 
 
